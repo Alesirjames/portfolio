@@ -1,0 +1,36 @@
+/* 
+footer{
+    background-origin: border-box;
+}
+#name{
+    color: white;
+}
+#anime{
+    border-radius: 50rem;
+    height: 200px;
+    width: 200px;
+}
+.findme{
+    display: inline-block;
+}
+.imagefind{
+    width: 20%;
+}
+img {
+  
+    height: 90px;
+}
+#Home{
+    background-image: url('assets/anime.jpg');
+} */
+
+body{
+    background-image: url('assets/Gojo.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+main{
+    display: flex;
+    justify-content: center;
+}
